@@ -35,21 +35,21 @@ Note that you don't need to download and generate the dataset. In addition, K=M-
 
 <p align='center'>
   <img width='100%' src='./figures/results.jpg'/>
-</p>
 Table 1: Computational savings and performance improvement achieved by neural group testing with various configurations. 
+</p>
 
 <p align='center'>
   <img width='70%' src='./figures/prevalence.jpg'/>
-</p>
 Figure 3: Relative computation and test efficiency under different prevalence. Evaluated with Design 3 (Tree Merge) with various group size M and algorithms. 
+</p>
 
 ## Understanding the Code Structure
 ### Quick Reproducing and Group Testing Algorithms
 [gather_results.py](code/gather_results.py) provides a quick way to reproduce results with minimum dependencies. It also implements different group tesint algorithms (algorithm 1, 2, 3 in Figure 1)
 <p align='center'>
   <img width='100%' src='./figures/algorithms.jpg'/>
-</p>
-Figure 1: Overview of group testing, a strategy that is used in efficient disease testing. The core idea is to test multiple samples at once to save time and money. 
+Figure 1: Overview of group testing, a strategy that is used in efficient disease testing. The core idea is to test multiple samples at once to save time and </p>
+money. 
 
 
 ### Neural Group Testing Designs
@@ -58,8 +58,8 @@ Neural group testing only requires a few lines of change of code to the orignal 
 
 <p align='center'>
   <img width='80%' src='./figures/designs.jpg'/>
-</p>
 Figure 2: Three neural network designs of neural group testing to test multiple samples with one forward pass.
+</p>
 
 
 ### Calculating Computation Cost

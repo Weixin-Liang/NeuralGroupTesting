@@ -2,6 +2,9 @@
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Weixin-Liang/NeuralGroupTesting/blob/master/LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2011.10704-b31b1b.svg)](https://arxiv.org/abs/2011.10704)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Pytorch](https://img.shields.io/badge/Pytorch-1.8-red.svg)](https://shields.io/)
 
 This repo provides the PyTorch source code of our paper: 
 [Neural Group Testing to Accelerate Deep Learning](https://arxiv.org/abs/2011.10704) (ISIT 2021). 

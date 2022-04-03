@@ -10,6 +10,8 @@ This repo provides the PyTorch source code of our paper:
 [Neural Group Testing to Accelerate Deep Learning](https://arxiv.org/abs/2011.10704) (ISIT 2021). 
 [[PDF]](https://arxiv.org/pdf/2011.10704.pdf)
 [[Code]](https://github.com/Weixin-Liang/NeuralGroupTesting/)
+[[Slides]](https://drive.google.com/file/d/13seujh4FVrJizafspE5ifOLuwEZR6Awu/view?usp=sharing)
+
 
 
 ```
